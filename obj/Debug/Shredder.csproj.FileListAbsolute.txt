@@ -1,8 +1,0 @@
-C:\Users\Owner\Desktop\Folders\Programming\Projects\Shredder\bin\Debug\Shredder.exe.config
-C:\Users\Owner\Desktop\Folders\Programming\Projects\Shredder\bin\Debug\Shredder.exe
-C:\Users\Owner\Desktop\Folders\Programming\Projects\Shredder\bin\Debug\Shredder.pdb
-C:\Users\Owner\Desktop\Folders\Programming\Projects\Shredder\obj\Debug\Shredder.csproj.AssemblyReference.cache
-C:\Users\Owner\Desktop\Folders\Programming\Projects\Shredder\obj\Debug\Shredder.csproj.SuggestedBindingRedirects.cache
-C:\Users\Owner\Desktop\Folders\Programming\Projects\Shredder\obj\Debug\Shredder.csproj.CoreCompileInputs.cache
-C:\Users\Owner\Desktop\Folders\Programming\Projects\Shredder\obj\Debug\Shredder.exe
-C:\Users\Owner\Desktop\Folders\Programming\Projects\Shredder\obj\Debug\Shredder.pdb
